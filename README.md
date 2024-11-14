@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://store.megantheestallion.com
+  https://www.sanrio.com/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage
-  <img src="/images/homepage-megan.png" width="375px" alt="landingspagina met slide show op dit moment zijn er 3 ds's in beeld">
+  <img src="/images/homepagina-sanrio.png" width="375px" alt="hello kitty characters in cowboy outfits met rode achtergrond">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="/images/artikelpagina.png" width="375px" alt="artikelpagina met een boa-cd add to cart">
+  <img src="/images/artikelpagina-allcharacters.png" width="375px" alt="artikelpagina met verschillende items van hello kitty">
  
 </details>
 
@@ -54,10 +54,29 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+  <img src="/images/blz1_wcagchecklist.jpg" width="375px" alt="bladzijde 1 wcag checklist">
+  <img src="/images/blz2-wcagchecklist.jpg" width="375px" alt="bladzijde 2 wcag checklist">
+  <img src="/images/blz3-wcagchecklist.jpg" width="375px" alt="bladzijde 3 wcag checklist">
+  <img src="/images/blz4-wcagchecklist.jpg" width="375px" alt="bladzijde 4 wcag checklist">
+  <img src="/images/blz5-wcagchecklist.jpg" width="375px" alt="bladzijde 5 wcag checklist">
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  Bladzijde 1: 
+  Content: Alle buttons hebben dezelfde beschrijving en zegt niet heel veel over het product. De informatie staat alleen erboven.
+  Global code: De webpagina heeft heeel veel fouten, verder wat errors. Schrik er wel een beetje van. Niet elke pagina heeft zijn eigen titel.
+  Bladzijde 2:
+  Keyboard: De tab toets werkt alleen maar van onder naar boven?
+  Mobile en Touch: Website was te gebruiken op telefoon.
+  Bladzijde 3:
+  Headings: Op sommige pagina's wordt er geen H1 gebruikt, wat mij is opvallen dat dit alleen op de homepagina is? Verder alleen H2's, de website is NIET semantisch.
+  Lists: Geen gebruik gemaakt van list items, alleen div elementen.
+  Images: De website gebruikt een div om de img heen. De alt text wordt beschreven in die div en niet op de afbeelding. 
+  Bladzijde 4:
+  Media Video en Audio: Er wordt gebruikt gemaakt van slideshows met animatie, niet per se video's. Daarop zit ook geen alt text.
+  Controls: Op de artikelpagina zijn er buttons, sommige daarvan zijn niet klikbaar. De tekst boven de buttons zijn klikbaar? Die tekst is een a element de button niet.
+  Bladzijde 5:
+  Appearance: Er is geen sprake van dark & lightmode op deze website. 
+  Animation: De slideshow kan niet gepauzeerd worden.
 </details>
 
 
