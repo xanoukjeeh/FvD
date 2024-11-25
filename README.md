@@ -106,9 +106,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 <details>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+### Stand van zaken
+Hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+ 
+Voor mij was het aan het begin lastig om het onderscheid te maken tussen een section en een article, Wanneer gebruik je wat en in welke situaties gebruik je articles of een ul.
+ 
+Doordat we tijdens de les een opzet moesten maken van de html op de pagina was het al wat makkelijker om te beginnen met de code.
+ 
+  Hier een voorbeeld van de opzet:  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="ontleding van de Action homepagina"> <!--Voeg plaatje toe van Figma>
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -123,10 +128,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1 section article
+  - punt 2 H1 maken van het logo (homepage) alt"Sanrio"
+  - punt 3 in de footer aanmeld email: button
+  - articles is een link geen button
 
 </details>
 
