@@ -87,10 +87,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="/images/breakdownschetsalles-01menu.png" width="559px" alt="breakdown van de hele pagina">
+  <img src="/images/breakdownschets 1:1.png" width="559px" alt="breakdown van de hele pagina1.1">
+  <img src="/images/breakdownschets1:2.png" width="559px" alt="breakdown van de hele pagina1.2">
+  <img src="/images/breakdownschets1:3.png" width="559px" alt="breakdown van de hele pagina1.3">
+  <img src="/images/breakdownschets1:4.png" width="559px" alt="breakdown van de hele pagina1.4">
+  <img src="/images/breakdownschets1:5.png" width="559px" alt="breakdown van de hele pagina1.5">
+  <img src="/images/breakdownschets1:6.png" width="559px" alt="breakdown van de hele pagina1.6">
+  <img src="/images/breakdownschets1:7.png" width="559px" alt="breakdown van de hele pagina1.7">
+ 
 
   ### dynamisch deel (bijv menu): 
-  <img src="/images/breakdownschetsalles-02filter.png" width="559px" alt="breakdown van een dynamisch deel menu">
+  <img src="/images/breakdownschets 2:1.png" width="559px" alt="breakdown van een dynamisch deel menu van de hele pagina2.1">
+  <img src="/images/breakdownschets2:2.png" width="559px" alt="breakdown van een dynamisch deel menuvan de hele pagina2.2">
+  <img src="/images/breakdownschets2:3.png" width="559px" alt="breakdown van een dynamisch deel menuvan de hele pagina2.3">
+  <img src="/images/breakdownschets2:4.png" width="559px" alt="breakdown van een dynamisch deel menuvan de hele pagina2.4">
+  <img src="/images/breakdownschets2:5.png" width="559px" alt="breakdown van een dynamisch deel menuvan de hele pagina2.5">
+  <img src="/images/breakdownschets2:6.png" width="559px" alt="breakdown van een dynamisch deel menu van de hele pagina2.6">
+
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="/images/breakdownschetsalles-03.png" width="559px" alt="breakdown van nog een dynamisch deel filter">
