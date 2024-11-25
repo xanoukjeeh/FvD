@@ -120,26 +120,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
 ### Stand van zaken
-Hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
- 
-Voor mij was het aan het begin lastig om het onderscheid te maken tussen een section en een article, Wanneer gebruik je wat en in welke situaties gebruik je articles of een ul.
- 
-Doordat we tijdens de les een opzet moesten maken van de html op de pagina was het al wat makkelijker om te beginnen met de code.
- 
-  Hier een voorbeeld van de opzet:  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="ontleding van de Action homepagina"> <!--Voeg plaatje toe van Figma>
+Toen ik ging zitten aan de tafel met de docent wist ik niet dat we zo fijn en uitgebreid de code gingen bespreken. Ik vond het zelf eerst een beetje lastig om te begrijpen waarom je nou een ul gebruikt en bijv geen article? Nu weet ik wat het verschil is doordat de docent dat heeft uitgelegd. Wat het nu voor mij wat makkelijker maakt om de code te schrijven. Ik denk dat ik na de les de stof meer begrijp van html.
+
+Ik had voordat de les begon een section gemaakt met daarin articles. Nu heb ik begrepen van de docent dat het voor een screenreader vervelend is als hij de h2 continue op blijft noemen. Dus daarom is dan een ul de betere optie. 
+
+De buttons die iets toevoegen aan de pagina, bijv een 1 die naar de winkelmand gaat is een button en geen A. Een button/element die naar de andere pagina gaat is wel een A.
+
+
+Hier een voorbeeld van de opzet:  <img src="/images/les1-progres.png" width="375px" alt="code van aangepaste code"> <!--Voeg plaatje toe van Figma>
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Jayden         |
+  | ---            | 
+  | Jayden en ik hebben na de les nog even besproken over de sections / ul items | 
+ 
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+- punt 1 Uitleg over het verschil tussen <sections> & <article> <!--<section> = container & <article> = Thema's of contet dat verplaatst kan worden op de website>
+  - punt 2 H1 maken van het logo (homepage) alt"Sanrio" <!--De H1 op de landingspagina is in mijn geval het logo omdat mensen met een screenreader dat dan lezen of horen>
+  - punt 3 In de footer aanmelden <Form> (button geen link) <!--Een link verwijst naar een ander pagina & een butten verstuurd data>
 
   - punt 1 section article
   - punt 2 H1 maken van het logo (homepage) alt"Sanrio"
