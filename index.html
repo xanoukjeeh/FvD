@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta name="author" content="anouk de groot">
@@ -14,13 +14,13 @@
 	<header>
 		<nav>
 			<button><img src="./images/hamburger.svg" alt="hamburger"></button>
-			<h1><a href="/"><img src="/images/Sanrio_Logo_600x150px_1000x.png" alt="Homepagina van Sanrio"></a></h1>
+			<a href="/"><h1><img src="/images/Sanrio_Logo_600x150px_1000x.png" alt="Homepagina van Sanrio"></h1></a>
 			<button> <img src="/images/label.svg" alt="Icon"></button>
 			<button> <img src="/images/winkelmand.svg" alt="Winkelmand"></button>
 		</nav>
 	</header>
 	<main>
-		<ul>
+		<ul role="list" aria-label="list for navigation">
 			<li><a href="/tweedepagina.html">New</a></li>
 			<li><a href="/tweedepagina.html">Collabs</a></li>
 			<li><a href="/tweedepagina.html">Characters</a></li>
@@ -34,21 +34,24 @@
 			<li><a href="/tweedepagina.html">My account</a></li>
 		</ul>
 		<section>
+			<!-- eerste section -->
+			<h2>New arrivals</h2>
 			<img src="/images/yeehaw-homepagina.jpeg" alt="Image of Hello Kitty and Friends Western Plush Collection">
-			<p>New arrivals</p>
-			<h2>Yee haw!</h2>
+			<p>Yee haw!</p>
 			<p>Hello Kitty and Friends are all gussied up in their cutest western-inspired accessories! With tiny cowboy hats and lassos, they're sure to wrangle in a whole lot of fun.</p>
 			<a href="/">Get the plusies here</a>
 		</section>
 		<section>
+			<!-- tweede section -->
+			<h2>NEW-IN STATIONERY</h2>
 			<img src="/images/giftbox-homepagina.png" alt="Image of the Hello Kitty x Erin Condren 50th Anniversary 2024 Stationery Gift Box.">
-			<p>NEW-IN STATIONERY</p>
-			<h2>ERIN CONDREN 2024 GIFT BOX</h2>
+			<p>ERIN CONDREN 2024 GIFT BOX</p>
 			<p>Packed with workspace must-haves for any Hello Kitty fan, this bundled stationery set is the ideal gift for the students or WFH-ers in your life!</p>
 			<a href="/tweedepagina.html">Get the gift box</a>
 		</section>
 		<section>
-			<ul>
+			<!-- derde section -->
+			<ul role="list" aria-label="link for easy shopping">
 				<li><a href="/tweedepagina.html">Shop Hello Kitty</a></li>
 				<li><a href="/tweedepagina.html">Shop new Arrivals</a></li>
 				<li><a href="/tweedepagina.html">Shop apparel</a></li>
@@ -58,49 +61,64 @@
 			</ul>
 		</section>
 		<section>
+			<!-- vierde section -->
 			<h2>who's your favorite</h2>
-			<ul>
-				<li><a href="/tweedepagina.html"><img src="/images/icon-hellokitty-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/mymelody-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/cinnamoroll-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/kuromi-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/keroppi-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/pompompurin-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/chococat-homepagina.png"></a></li>
-				<li><a href="/tweedepagina.html"><img src="/images/pochacco-homepagina.png"></a></li>
+			<ul role="list" aria-label="link to your favorite sanrio character">
+				<li><a href="/tweedepagina.html"><img src="/images/icon-hellokitty-homepagina.png" alt="Hello Kitty, she's a cute white cat with a red bow."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/mymelody-homepagina.png" alt="My Melody, she's a cute bunny with a pink fitted hat. "></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/cinnamoroll-homepagina.png" alt="Cinnamoroll, is a small and chubby dog with white fur, blue eyes, pink cheeks."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/kuromi-homepagina.png" alt="Kuromi, is a white rabbit or imp-like creature wearing a black jester's hat with a pink skull on the front and a black devil's tail."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/keroppi-homepagina.png" alt="Keroppi, is a green frog, with a cute face, pink cheeks."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/pompompurin-homepagina.png" alt="Pompompurin, is a good-natured Golden Retriever dog."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/chococat-homepagina.png" alt="Chococat, is a black cat. He was named after his chocolate-colored nose."></a></li>
+				<li><a href="/tweedepagina.html"><img src="/images/pochacco-homepagina.png" alt="Pochacco, is a curious little pup who loves going for walks and eating banana ice cream."></a></li>
 			</ul>
 		</section>
 		<section>
+			<!-- vijfde section -->
+			<h2>Cute seasonal items!</h2>
 			<img src="/images/holidayshop-homepagina.jpeg" alt="Hello Kitty and Friends holiday artwork">
-			<p>'Tis the season for cute</p>
-			<h2>2024 Holiday Shop </h2>
+			<p>2024 Holiday Shop </p>
 			<p>Good tidings, indeed! It's time to kick off the season of merry-making and holiday cheer with your favorite Sanrio characters!</p>
 			<a href="/tweedepagina.html">Shop the holiday shop</a>
 		</section>
 		<section>
-			<ul>
-				<li><img src="/images/sanitizerartikel-homepagina.png"><p>Hello Kitty x Touchland Power Mist Hand Sanitizer (Berry Bliss)</p></li>
-				<li><img src="/images/hellokittytas-homepagina.jpeg"><p>Hello Kitty x Baggu 50th Anniversary Standard Baggu (Black Gingham)</p></li>
+			<h2>Populair items</h2>
+			<!-- zesde section -->
+			<ul role="list" aria-label="articles for Populair hello kitty items">
+				<li>
+					<img src="/images/sanitizerartikel-homepagina.png">
+					<p>Hello Kitty x Touchland Power Mist Hand Sanitizer (Berry Bliss)</p>
+					<a href="/tweedepagina.html">Add to cart</a>
+				</li>
+				<li>
+					<img src="/images/hellokittytas-homepagina.jpeg">
+					<p>Hello Kitty x Baggu 50th Anniversary Standard Baggu (Black Gingham)</p>
+					<a href="/tweedepagina.html">Add to cart</a>
+				</li>
 			</ul>
 		</section>
 		<section>
+			<!-- zevende section -->
+			<h2>Free calendar</h2>
 			<img src="/images/calender2024-homepagina.jpeg" alt="Images of FOTM 2024 Calendars ">
-			<p>Free downloadable</p>
-			<h2>2024 Calendar</h2>
+			<p>2024 Calendar</p>
 			<p>Print them out each month (or all at once!) and add in your own personal dates and events. Tape them up with a bit of washi tape and voila! Your very own Sanrio calendar to enjoy all year long!</p>
 			<a href="/tweedepagina.html">Download the calender here</a>
 		</section>
 		<section>
+			<!-- achtste section -->
+			<h2>Do you wanna get free wallpapers?</h2>
 			<img src="/images/achtergrond-homepagina.gif" alt="Different Hello Kitty wallpapers">
-			<p>Do you wanna get free wallpapers?</p>
-			<h2>Mobile wallpapers</h2>
+			<p>Mobile wallpapers</p>
 			<p>Print them out each month (or all at once!) and add in your own personal dates and events. Tape them up with a bit of washi tape and voila! Your very own Sanrio calendar to enjoy all year long!</p>
 			<a href="/tweedepagina.html">Checkout the wallpapers</a>
 		</section>
 		<section>
+			<!-- negende section -->
+			<h2>Streaming now on Youtube</h2>
 			<img src="/images/youtubeadvertentie-homepagina.jpeg" alt="Different Hello Kitty wallpapers">
-			<p>Streaming now on Youtube</p>
-			<h2>Kuromi's Pretty Journey / Season 2 Premiere</h2>
+			<p>Kuromi's Pretty Journey / Season 2 Premiere</p>
 			<p>Get ready for a whole lot of Kuromi! Catch up on the latest season and don’t forget to tune in for Kuromi's Pretty Journey Season 2, premiering October 31st on the Hello Kitty and Friends YouTube channel. </p>
 			<a href="/tweedepagina.html">Go to Youtube to watch the video</a>
 		</section>
@@ -109,7 +127,7 @@
 	<footer>
 		<section>
 		<img src="/images/hellokitty.svg" alt="Hello Kitty icon">
-		<p>Let's stay in touch! We'll let you know about the latest sales and  new releases!</p>
+		<h2>Let's stay in touch! We'll let you know about the latest sales and  new releases!</h2>
 		<label>
 			E-mailadres:
 			<input type="email" name="email" required /> <button>send</button>
@@ -118,7 +136,7 @@
 		</section>
 		<section>
 			<h2>World of Sanrio</h2>
-			<ul>
+			<ul role="list" aria-label="link to world of sanrio">
 				<li><a href="/"></a>Store Locator</li>
 				<li><a href="/"></a>Character Goodies</li>
 				<li><a href="/"></a>Supercute Adventures</li>
@@ -148,6 +166,7 @@
 				<li><a href="/"></a>Terms of Service</li>
 				<li><a href="/"></a>Copyright Info</li>
 			</ul>
+			<h2>Social media</h2>
 			<ul>
 				<li><img src="/images/instagram.svg"></li>
 				<li><img src="/images/twitter.svg"></li>
@@ -156,6 +175,7 @@
 				<li><img src="/images/facebook.svg"></li>
 				<li><img src="/images/instagram.svg"></li>
 			</ul>
+			<h2>What payment we support</h2>
 			<ul>
 				<li><img src="/images/amex.svg"></li>
 				<li><img src="/images/applepay.svg"></li>
@@ -170,10 +190,8 @@
 			</ul>
 			<p>© 2024 SANRIO CO., LTD.</p>
 		</section>
-		
 	</footer>
 	<script defer src="scripts/script.js"></script>
-
 </body>
 
 </html>
