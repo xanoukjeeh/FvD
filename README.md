@@ -150,10 +150,6 @@ Hier een voorbeeld van de opzet:  <img src="/images/les1-progres.png" width="375
 
 </details>
 
-
-
-
-
 ## Voortgang 2 (week 3)
 
 <details>
@@ -161,30 +157,14 @@ Hier een voorbeeld van de opzet:  <img src="/images/les1-progres.png" width="375
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+Ik ben nu bijna klaar met de index, alleen de footer moet nog gebeuren. Weet niet zo goed hoe ik iets moet positiioneren (dacht dat het position relative/absolute was). Maar dat was niet. Loop vast bij de footer, ga morgen 29nov even verder.
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wilde uploaden op Github. Daar heb ik op dit moment wat vraagtekens over, ook wil ik even bevestiging of ik mijn 2e pagina goed kan cssen. 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
+  We hebben er samen naar gekeken, maar zij wist het ook niet. We hebben van alles geprobeerd, de app downloaden en het op Github meerdere malen upgeload. Ze heeft ook uitgelegd dat het beter is om van de main een class te maken en niet van de body. 
 </details>
-
-
-
 
 
 ## Toegankelijkheidstest 2/2 (week 4)
