@@ -170,11 +170,11 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+<summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
+  k ben er achter gekomen dat ik bij sommige p's wel een heading moet gebruiken, want nu kan de screenreader die niet lezen. Ook moet ik de a tussen de elementen zetten en er niet in. Verder moet ik er over nadenken of ik de skiplink erin wil zetten. (als ik nog tijd over heb). Verder moet ik bij de nav die komt te voorschijn als ik met de screenreader ga werken, daaro pmoet ik dan een aria-hidden plaatsen. Daar ga ik later op de middag naar kijken. Verder is het ook een idee om de nav aan de onderkant te zetten, maar ik moet nog even begrijpen hoe dat werkt. Verder moet ik ook alle dubbele P's vervangen met de h3. Ik heb in de middag even de punten aangepast :) 
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
 </details>
 
 
@@ -191,13 +191,11 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
+  Ik wil graag weten of mijn code klopt, dan heb ik het over ik wil weten of alles goed is genest. Of ik alle elementen goed heb aangesproken. Hoe je precies de screenreader gebruikt. Of mijn form goed staat? Wat voor animaties moeten er nog bij?
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  |      | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
