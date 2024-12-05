@@ -173,9 +173,15 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
 <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  k ben er achter gekomen dat ik bij sommige p's wel een heading moet gebruiken, want nu kan de screenreader die niet lezen. Ook moet ik de a tussen de elementen zetten en er niet in. Verder moet ik er over nadenken of ik de skiplink erin wil zetten. (als ik nog tijd over heb). Verder moet ik bij de nav die komt te voorschijn als ik met de screenreader ga werken, daaro pmoet ik dan een aria-hidden plaatsen. Daar ga ik later op de middag naar kijken. Verder is het ook een idee om de nav aan de onderkant te zetten, maar ik moet nog even begrijpen hoe dat werkt. Verder moet ik ook alle dubbele P's vervangen met de h3. Ik heb in de middag even de punten aangepast :) 
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  k ben er achter gekomen dat ik bij sommige p's wel een heading moet gebruiken, want nu kan de screenreader die niet lezen. Ook moet ik de a tussen de elementen zetten en er niet in. Verder moet ik er over nadenken of ik de skiplink erin wil zetten. (als ik nog tijd over heb). Verder moet ik bij de nav die komt te voorschijn als ik met de screenreader ga werken, daaro pmoet ik dan een aria-hidden plaatsen. Daar ga ik later op de middag naar kijken. Verder is het ook een idee om de nav aan de onderkant te zetten, maar ik moet nog even begrijpen hoe dat werkt. Verder moet ik ook alle dubbele P's vervangen met de h3. Ik heb in de middag even de punten aangepast
+  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is)
 </details>
+
+<img src="/images/wcag checklist 2.1.JPG" width="375px" alt="wcag checklist 2.1">
+<img src="/images/wcag checklist 2.2.JPG" width="375px" alt="wcag checklist 2.2">
+<img src="/images/wcag checklist 2.3.JPG" width="375px" alt="wcag checklist 2.3">
+<img src="/images/wcag checklist 2.4.JPG" width="375px" alt="wcag checklist 2.4">
+<img src="/images/wcag checklist 2.5.JPG" width="375px" alt="wcag checklist 2.5">
 
 
 
