@@ -197,21 +197,18 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
 
 
   ### Agenda voor meeting
-  Ik wil graag weten of mijn code klopt, dan heb ik het over ik wil weten of alles goed is genest. Of ik alle elementen goed heb aangesproken. Hoe je precies de screenreader gebruikt. Of mijn form goed staat? Wat voor animaties moeten er nog bij?
+  Ik wil graag weten of mijn code klopt, dan heb ik het over ik wil weten of alles goed is genest. Of ik alle elementen goed heb aangesproken. Hoe je precies de screenreader gebruikt. Of mijn form goed staat? Wat voor animaties moeten er nog bij? Hoe moet je de credits geven
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
   |      | ...                | ...          | ...              |
-
+ 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+  - Dat ik makkelijker de sections kan aanspreken. Er hoeft niet altijd gewerkt te worden met :nth-of-type maar gewoon alles aanspreken.
+  - Dat ik nog wat animaties en of gradients erin moet zetten. 
 </details>
 
 
