@@ -249,8 +249,12 @@ Ik wilde graag met de studenten assistent bespreken waarom mijn website niet wil
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Label en input heb ik hulp gekregen van blackbox.ai prompt: hoe schrijf je een input label voor een email.
+  2. Alle foto's en content van de website van: https://www.sanrio.com/	
+  3. Het erinzetten van de @font-face heb k hulp code van: https://www.w3schools.com/CSSref/atrule_font-face.php gebruikt de font heb ik van: https://fontsgeek.com/fonts/Frankfurter-Std-Regular en van https://font.download/font/futura-pt  
+  4. Voor de navigatie hulp gekregen van de studenten assistente en uit de codepen opdracht https://codepen.io/shooft/pen/JjQLVeB
+  5. De iconen uit de navbar heb ik van: 
+  6. De focus visble heb ik van https://codepen.io/shooft/live/yLdqVdP
+  7.
 
 </details>
